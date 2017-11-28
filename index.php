@@ -97,14 +97,13 @@
                             <hr>
                             <div class="clearfix"></div>
                         </div>
-                       <p>Hello everyone! Welcome to Kru Design site. </p> 
-                       <p>Kru or (Khru) stands for Instructor of the Art.<br>
-                        <p> A little bit about myself: </p>
-                        <p> My name is Johnny Keokongsy. I teach Muay Thai in the Raleigh, NC location. I spend my free time learning the ins and outs of computers. I have always been a Geek at heart. I use and love technology. I also spend most of my time solving problems and enjoy programming software that people can use. How cool is it that we now live in a time where you can control technology and use that power to better yourself.</p> 
-                        <p>No matter if your getting information or selling something online, everyone knows that the internet has open doors to lots of businesses. Did you know that 90% of online shopping is done with the smart phone? When it comes to getting your business in front of your customers, how visible is your business online? 
-                        <p> Show the world what you're about and has to offer. Get your information and products to your targeted audience. 
-                        Having an awesome website that can also be viewed on a modern smart phone is key for you to stand out. Having a high-end website does not need to be complicated or expensive. 
-                        My passion is always learning something new and I also enjoy making websites that will stand out from the crowd. My websites are engaging and will keep visitors on your site longer. It’s built with user in mind. You’re website will take visitors and turn them into members as well clients. Let’s build something together. Contact me today. </p>
+                       <p>Hello to everyone! Welcome to Kru Design site. 
+                        Kru or (Khru) stands for Instructor of the Art.</p>
+                       <p> A little bit about myself: </p>
+                       <p> My name is Johnny Keokongsy. I teach Muay Thai in the Raleigh, NC location. I spend my free time learning the ins and outs of computers. I have always been a Geek at heart. I love technology and helping people connect using technology. I also spend most of my time solving problems and enjoy programming software that people can use. How cool is it that we now live in a time where you can control technology and use that power to better yourself. No matter if you’re getting information or selling something online, everyone knows that the internet has open doors to lots of businesses.</p> 
+
+                       <p> Did you know that 90% of online shopping is done with the smart phone? When it comes to getting your business in front of your customers, how visible is your business online? 
+                        Show the world what you're about and has to offer. Get your information and products to your targeted audience. Having an awesome website that can also be viewed on a modern smart phone is key for you to stand out. Having a high-end website does not need to be complicated or expensive. My passion is always learning something new and I also enjoy making websites that will stand out from the crowd. My websites are engaging and will keep visitors on your site longer. It’s built with user in mind. You’re website will take visitors and turn them into members as well clients. Let's build something great together. Contact me today to get started! </p>
 
                         <p class="intro"> <strong>•  Office Software: </strong> Advanced knowledge in Microsoft Excel & proficiency in Microsoft Word, Power Point and Outlook.</p>
 <p><strong>•  Operating Systems  : </strong> Windows, MAC and Linux . </P>
