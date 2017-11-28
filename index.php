@@ -97,13 +97,13 @@
                             <hr>
                             <div class="clearfix"></div>
                         </div>
-                       <p>Hello to everyone! Welcome to Kru Design site. 
-                        Kru or (Khru) stands for Instructor of the Art.</p>
+                       <p>Hello to everyone! Welcome to Kru Design site. </p>
+                       <p> Kru or (Khru) stands for Instructor of the Art.</p>
                        <p> A little bit about myself: </p>
                        <p> My name is Johnny Keokongsy. I teach Muay Thai in the Raleigh, NC location. I spend my free time learning the ins and outs of computers. I have always been a Geek at heart. I love technology and helping people connect using technology. I also spend most of my time solving problems and enjoy programming software that people can use. How cool is it that we now live in a time where you can control technology and use that power to better yourself. No matter if you’re getting information or selling something online, everyone knows that the internet has open doors to lots of businesses.</p> 
 
-                       <p> Did you know that 90% of online shopping is done with the smart phone? When it comes to getting your business in front of your customers, how visible is your business online? 
-                        Show the world what you're about and has to offer. Get your information and products to your targeted audience. Having an awesome website that can also be viewed on a modern smart phone is key for you to stand out. Having a high-end website does not need to be complicated or expensive. My passion is always learning something new and I also enjoy making websites that will stand out from the crowd. My websites are engaging and will keep visitors on your site longer. It’s built with user in mind. You’re website will take visitors and turn them into members as well clients. Let's build something great together. Contact me today to get started! </p>
+                       <p> Did you know that 90% of all online shopping is done with the smart phone? When it comes to getting your business in front of your customers, how visible is your business online? 
+                        Show the world what you're about and has to offer. Get your information and products to your targeted audience. Having an awesome website that can also be viewed on a modern smart phone is key for you to stand out. Having a high-end website does not need to be complicated or expensive. My passion is always learning something new and I also enjoy making websites that will stand out from the crowd. My websites are engaging and will keep visitors on your site longer. It’s built with the user in mind. Our websites will take visitors and turn them into members,  better yet - clients. Let's build something great together. Contact me today to get started! </p>
 
                         <p class="intro"> <strong>•  Office Software: </strong> Advanced knowledge in Microsoft Excel & proficiency in Microsoft Word, Power Point and Outlook.</p>
 <p><strong>•  Operating Systems  : </strong> Windows, MAC and Linux . </P>
@@ -427,7 +427,7 @@
                     <div class="col-md-3 animate-box">
                         <div class="price-box animate-box">
                             <h2 class="pricing-plan">Starter</h2>
-                            <div class="price"><sup class="currency">$</sup>150<small>/ $20 hr (Fix & Updates)/</small></div>
+                            <div class="price"><sup class="currency">$</sup>150<small>/Web Hosting & Domain name not included  </small></div>
                             <p><strong>"Self Starter Member"</strong></p>
                             <ul class="classes">
                                 <li style="color:red;">1 Landing Page</li>
@@ -446,11 +446,10 @@
 
                         </div>
                     </div>
-
                     <div class="col-md-3 animate-box">
                         <div class="price-box animate-box">
                             <h2 class="pricing-plan">Basic</h2>
-                            <div class="price"><sup class="currency">$</sup>295<small>/ $20 hr (Fix & Updates)/</small></div>
+                            <div class="price"><sup class="currency">$</sup>295<small>/Web Hosting & Domain name not included </small></div>
                             <p><strong>"Social Networker"</strong> </p>
                             <ul class="classes">
                                 <li style="color:red;"> 1-3  pages</li>
@@ -475,14 +474,12 @@
                                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                                 </form>
-
                         </div>
                     </div>
-
                     <div class="col-md-3 animate-box">
                         <div class="price-box animate-box popular">
                             <h2 class="pricing-plan pricing-plan-offer">Pro <span>Best Offer</span></h2>
-                            <div class="price"><sup class="currency">$</sup>595<small>/$50 hr (Fix & Updates)/</small></div>
+                            <div class="price"><sup class="currency">$</sup>595<small>/Web Hosting & Domain name not included </small></div>
                             <p><strong>"Business Professional"</strong></p>
                             <ul class="classes">
                                 <li style="color:red;">3-5 pages </li>
@@ -499,14 +496,12 @@
                             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                             </form>
-
                         </div>
                     </div>
-
                     <div class="col-md-3 animate-box">
                         <div class="price-box animate-box">
                             <h2 class="pricing-plan">Master</h2>
-                            <div class="price"><sup class="currency">$</sup>895<small>/$50 hr (Fix & Updates)/</small></div>
+                            <div class="price"><sup class="currency">$</sup>895<small>/Web Hosting & Domain name not included </small></div>
                             <p><strong>"Entrepreneur Master"</strong></p>
                             <ul class="classes">
                                 <li style="color:red;">5-10 pages </li>
@@ -524,15 +519,14 @@
                             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                             </form>
-
                         </div>
                     </div>
                 </div>
                 </div>
             </div>
         </div>
-                </div>
-                </div>
+    </div>
+</div>
          
 
                   
@@ -542,7 +536,6 @@
     ==========================================-->
     <div id="tf-contact" class="text-center">
         <div class="container">
-
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
 
@@ -592,13 +585,10 @@
                     </div>
                     </div>
                     </div>
-
-    <!-- jQuery -->
                 </div>
             </div>
 
-        </div>
-    </div>
+       
 
     <nav id="footer">
         <div class="container">
