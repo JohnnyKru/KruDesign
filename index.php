@@ -74,7 +74,7 @@
         <div class="overlay">
             <div class="content">
                 <h1>Welcome to  <strong><span class="color">KRU DESIGNS</span></strong>. </h1>
-                <p class="lead">Full Stack Web designer with years of experience in Web Development and corporate Marketing .</p>
+                <p class="lead">Full Stack Web designer with years of experience in Web Development and marketing.</p>
                  <p class="lead2"> Clean, dynamic, responsive layouts for <strong>big</strong> or small projects.</p>
                 <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
             </div>
