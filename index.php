@@ -314,23 +314,24 @@
     <div id="tf-contact" class="text-center">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-12">
+                <div class="col-sm-12 col-md-10 col-lg-10 col-offset-lg-2">
                     <div class="section-title center">
                         <h2>Need a Website  ? <strong>Contact Me.</strong></h2>
                         <div class="line">
                             <hr>
                         </div>
                         <div class="clearfix"></div>
-                        <medium ><em> Let your customers know where to find you .  Most  shoppers and potential buyers will  research with some type of smartphone or handheld device. You want to make sure your website is capable of resizing and fit on every display. Send in your request today and I will do the rest.  Professional website done fast , done right  and most of all - affordable.   </em></medium>            
+                        <medium ><em><p>90% of shoppers and potential buyers will use a smartphone or some type of handheld device. </p>
+						<p>You want to make sure your website is visible on all display size.  Professional website done fast, done right  and most of all - affordable.</p> </em></medium>            
                     </div>
-				</div>
+				</div>-
             </div>	
         </div>					
 		<div id ="side_Container1">
 			<div id="Side_Wrap">
 			    <div class="container">
 				    <div class="row">
-					    <div class="col-sm-12 col-md-12 col-lg-12">
+					    <div class="col-sm-12 col-md-10 col-lg-10 col-offset-lg-2">
 							<form action="mail2.php" method="POST">
 							<p>Name</p> <input type="text" name="name">
 							<p>Email</p> <input type="text" name="email">
