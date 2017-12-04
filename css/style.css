@@ -356,8 +356,14 @@ img.img-circle.team-img {
 ==============================*/
 #tf-works{
 	position: relative;
-	top: -20px;
+	top: 0px;
 	padding: 80px 0;
+	width:100%;
+	height:700px;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 
 }
 .categories{ 
@@ -465,41 +471,6 @@ ol.type li a.active { font-weight: 700; }
 	border-radius: 50%;
 	color: #FCAC45;
 }
-/* Testimonials Section */
-#tf-testimonials{
-	background: url(../img/05.jpg);
-	background-size: cover;
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	color: #ffffff;
-}
-
-#tf-testimonials .overlay{
-	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#66000000',GradientType=0 ); /* IE6-9 */
-	padding: 80px 0;
-	background-attachment: fixed;
-}
-#testimonial {
-	padding: 30px 0;
-}
-#testimonial .item{
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-#testimonial .item p {
-	font-weight: 400;
-	margin: 30px 0;
-	color: #d1d1d1;
-}
 /* Contact Section */
 #tf-contact{
 	padding: 80px 0;
@@ -605,14 +576,6 @@ background: url(http://www.kruelmilitiamma.com/images1/images/KMFL.jpg);
 z-index: 1 ; 
 }
 
-.fee_area{
-	position: relative;
-	top: 0px;
-	border: solid 1px black;
-	width: 100%;
-	height:auto;
-	background: black;
-}
 #particles-js {
   position: absolute;
   width: 100%;
@@ -625,11 +588,12 @@ z-index: 1 ;
 }
 
 .display_case{
-top: 0px;
-margin: 0 auto;
- width: 100%;
- height: 200px;
-position: relative;	
+	top: 0px;
+	margin: 0 auto;
+	width: 100%;
+	height: 200px;
+	position: relative;
+	
 }
 
 .container1{
@@ -652,8 +616,8 @@ position: relative;
   display: block;
   position: absolute;
   background: #000;
-  width: 300px;
-  height: 200px;
+  width: 400px;
+  height: 220px;
   line-height: 200px;
   font-size: 5em;
   text-align: center;
@@ -665,42 +629,42 @@ position: relative;
 }
 
 .a {
- transform: rotateY(60deg) translateZ(250px);
+ transform: rotateY(60deg) translateZ(350px);
   background-image: url("img/portfolio/KruelWeb.png");
   background-repeat: repeat-y;
     background-size: cover;
       overflow: hidden;
 }
 .b {
-  transform: rotateY(120deg) translateZ(250px);
+  transform: rotateY(120deg) translateZ(350px);
   background:black;
   background-repeat: no-repeat;
     background-size: cover;
       overflow: hidden;
 }
 .c {
-  transform: rotateY(180deg) translateZ(250px);
+  transform: rotateY(180deg) translateZ(350px);
   background:black;
   background-repeat: no-repeat;
     background-size: cover;
       overflow: hidden;
 }
 .d {
-  transform: rotateY(240deg) translateZ(250px);
+  transform: rotateY(240deg) translateZ(350px);
   background:white;
   background-repeat: no-repeat;
     background-size: cover;
       overflow: hidden;
 }
 .e {
-  transform: rotateY(300deg) translateZ(250px);
+  transform: rotateY(300deg) translateZ(350px);
   background:black;
   background-repeat: no-repeat;
     background-size: cover;
       overflow: hidden;
 } 
 .f {
-  transform: rotateY(360deg) translateZ(250px);
+  transform: rotateY(360deg) translateZ(350px);
   background:black;
   background-repeat: no-repeat;
     background-size: cover;
@@ -751,6 +715,30 @@ position: relative;
     padding: 3em 0;
   }
 }
+
+
+#tf_fee{
+	top:0px;
+	height:700px;
+	width:100%;
+}
+.fee_area{
+	position: relative;
+	top: 20px;
+	width: 100%;
+	height:auto;
+	background: url(../img/cube.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.animate-box{
+	border:solid 1px white;
+	border-radius: 15px 15px ;
+	padding: 10px 10px ; 
+}
+
 .fh5co-pricing .pricing {
   display: block;
   float: left;
@@ -826,3 +814,26 @@ position: relative;
   text-transform: uppercase;
   color: #888f94;
 }
+.form_area{
+	background-image:url("http://localhost/KruDesign/img/03.jpg");
+	width:100%;
+	height:400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	border:solid 1px black;
+}
+#Side_Wrap{
+	position:relative;
+	top:0px;
+	right:10px;
+	text-align:left;
+	width:500px;
+	height:400px;
+	background:white;
+	opacity:0.8;
+	margin:0 60%;
+	
+	
+}
+

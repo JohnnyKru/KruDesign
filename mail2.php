@@ -12,5 +12,5 @@ $recipient = "johnnykru@gmail.com";
 $subject = "Contact Form";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-echo "Thank You! Your Information was sent . You will hear from us real soon.." . " -" . "<a href='http://ninjanerddesign.com/' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
+echo "Thank You! Your Information was sent . You will hear from us real soon.." . " -" . "<a href='index.php' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
 ?>
