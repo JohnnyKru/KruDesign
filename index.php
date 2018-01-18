@@ -1,452 +1,337 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kru Designs</title>
     <meta name="description" content="  Web designer who specialize in responsive web application for your business. Big or small I can help get your business brand online without the big company price. Frontend and backend, I can work with you and your marketing team to build a professional , clean , searchable website.">
-    <meta name="keywords" content="bootstrap theme, portfolio template, digital agency, onepage, mobile responsive, spirit8, free website, free theme, themeforces themes, themeforces wordpress themes, themeforces bootstrap theme , Website designer , Web developer , Web App , Responsive website, Web host , Web server , Web , HTML , CSS , JavaScript , PHP, Ruby , Ruby on Rails , Git, ruby gems , heroku, Coding , design , photoshop , ecommerce , site, SEO , google, search engine ,  Business , Business brand , logo,  Technology , IT , Networking , Marketing,  Desktop , Smartphones, Raleigh , Raleigh , NC , Wake county , Wake Forest , Silicon Valley ,  RTP , Durham , Morrisville , NC , Cary , NC , North Carolina , South Carolina , USA , Brier Creek , NY , Best , How can I , How do I , How do you , How to ,How to get rid of, How to make, Improve , Increase , Inexpensive , Learn , Low cost , Low priced , Method (s) , [Model Numbers] , Need , New , On sale , Order , Overcome , Plan (s) , Prevent , Program(s) , Protect , Purchase , Quick , Rebuild , Recover , Reduce , Reduced , Relieve , Remedy , Repair , Restore , Review , Reviews (s) , Scam , Software , Solution , Solve , Technique , That Works , Top , Training , Treat , Vs , Help, 
-">
+    <meta name="keywords" content="bootstrap theme, portfolio template, digital agency, onepage, mobile responsive, spirit8, free website, free theme, themeforces themes, themeforces wordpress themes, themeforces bootstrap theme , Website designer , Web developer , Web App , Responsive website, Web host , Web server , Web , HTML , CSS , JavaScript , PHP, Ruby , Ruby on Rails , Git, ruby gems , heroku, Coding , design , photoshop , ecommerce , site, SEO , google, search engine ,  Business , Business brand , logo,  Technology , IT , Networking , Marketing,  Desktop , Smartphones, Raleigh , Raleigh , NC , Wake county , Wake Forest , Silicon Valley ,  RTP , Durham , Morrisville , NC , Cary , NC , North Carolina , South Carolina , USA , Brier Creek , NY , Best , How can I , How do I , How do you , How to ,How to get rid of, How to make, Improve , Increase , Inexpensive , Learn , Low cost , Low priced , Method (s) , [Model Numbers] , Need , New , On sale , Order , Overcome , Plan (s) , Prevent , Program(s) , Protect , Purchase , Quick , Rebuild , Recover , Reduce , Reduced , Relieve , Remedy , Repair , Restore , Review , Reviews (s) , Scam , Software , Solution , Solve , Technique , That Works , Top , Training , Treat , Vs , Help,">
     <meta name="author" content="ThemeForces.com">
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
-
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
-
     <!-- Slider
     ================================================== -->
     <link href="css/owl.carousel.css" rel="stylesheet" media="screen">
     <link href="css/owl.theme.css" rel="stylesheet" media="screen">
-
     <!-- Stylesheet
     ================================================== -->
     <link rel="stylesheet" type="text/css"  href="css/style.css">
-	 <link rel="stylesheet" type="text/css"  href="css/styleHero.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
-
     <script type="text/javascript" src="js/modernizr.custom.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-
   </head>
   <body>
-
-    <!-- Navigation
-    ==========================================-->
-    <nav id="tf-menu" class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#tf-about"> KRU DESIGNS    (919)-302-0678  </a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#tf-home" class="page-scroll">Home</a></li>
-            <li><a href="#tf-about" class="page-scroll">About</a></li>
-			<li><a href="#tf-Hero" class="page-scroll">Website Layout Slider</a></li>
-            <li><a href="#tf-works" class="page-scroll">Portfolio</a></li>
-            <li><a href="#tf-fee" class="page-scroll">Get Started</a></li>
-            <li><a href="#tf-contact" class="page-scroll">Contact</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
-
+   <?php include('nav.php'); ?>
     <!-- Home Page
     ==========================================-->
-    <div id="tf-home" class="text-center">
+    <div id="tf-home" class="text-center"><div id="particles-js"></div>
         <div class="overlay">
             <div class="content">
-                <h1>Welcome to  <strong><span class="color">KRU DESIGNS</span></strong>. </h1>
-                <p class="lead">Full Stack Web designer with years of experience in Web Development and Marketing.</p>
+                <h1>Kru Design <strong><span class="color"> Portfolio Page.</span></strong>. </h1>
+                <p class="lead"> Web Developer and Marketing.</p>
                  <p class="lead2"> Clean, dynamic, responsive layouts for <strong>big</strong> or small projects.</p>
                 <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
             </div>
         </div>
     </div>
-
-    <!-- About Us Page
-    ==========================================-->
-    <div id="tf-about">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2">
-                    <img src="img/Johnnyprofile.jpg" class="img-responsive">
+<!-- About  Page
+==========================================-->
+<section id="tf-about">
+    <div class="container-fluid">
+        <div class="row">
+            <div class=" jk col-sm-6 col-md-4 col-lg-4 ">
+                <img src="img/Johnnyprofile.jpg" class="img-responsive">
+            </div>          
+            <div class="about-text col-sm-6 col-md-6 col-lg-6">
+                <div class="section-title ">
+                    <h4 style="color:rgba(40,189,164,1);">Full Stack Web Developer</h4>
+                    <h2>Johnny "Kru" Keokongsy </h2><br>
+                   <p>Hello to everyone! Welcome to Kru Design site. My name is Johnny Keokongsy. I spend my free time learning new programming languages as well as solving problems. I love technology as well connecting with like minded people with the same passions.</p>
+                   <p> How cool is it that we now live in a time where we can control technology and use it to better the world we live in. No matter if you’re searching for information on the information highway or selling something online, everyone knows that the internet has changed the way we live and also do business.</p>
+                   <br>
+                   <div class="social_btn">
+                   <a href="https://www.instagram.com/johnnykru/"> <button style="font-size:19px">instagram <i class="fa fa-instagram"></i></button></a>
+                    <a href="https://www.youtube.com/channel/UCAxqMzqfdAeDAng0S6Kl_lA/featured?view_as=public"><button style="font-size:19px">youtube <i class="fa fa-youtube"></i></button></a>
+                    <button style="font-size:19px">twitter <i class="fa fa-twitter-square"></i></button> 
+                   </div>
                 </div>
-                <div class="col-md-10">
-                    <div class="about-text">
-                        <div class="section-title">
-                            <h4>Full Stack Web Developer</h4>
-                            <h2>Johnny "Kru" Keokongsy </h2>
-                            <hr>
-                            <div class="clearfix"></div>
-                        </div>
-                       <p>Hello to everyone! Welcome to Kru Design site. </p>
-                       <p> Kru or (Khru) stands for Instructor of the Art.</p>
-                       <p> My name is Johnny Keokongsy. I spend my free time learning the ins and outs of computers and ways we could use them. I have always been a Geek at heart. I love technology as well connect with like minded programmers. I also spend most of my time solving problems and building web apps that people can use. How cool is it that we now live in a time where we can control technology and use what power it has to better the world we live in. No matter if you’re searching for information or selling something online, everyone knows that the internet has changed the way we live and do business.</p> 
-                       
-                        <p class="intro"> <strong>•  Office Software: </strong> Advanced knowledge in Microsoft Excel & proficiency in Microsoft Word, Power Point and Outlook.</p>
-						<p><strong>•  Operating Systems  : </strong> Windows, MAC and Linux . </P>
-						<p><strong>•  Web Language:</strong>  HTML5 , CSS3 , JavaScript , JQuery and PHP. </p>
-						<p><strong>•  Frame Work : Vue.js and Angular.js </strong></p>
-						<p><strong>•  Tools Used: </strong> Sublime Text Editor, notepad++, and Eclipse. </p>
-						<p><strong>•  Graphic Design Software: </strong>  Photoshop Element  and Blender. </p>
-						<p><strong>•  Source Control: </strong> Enjoy Using Git and Github. </p>
-						<br>
-						<p><strong>•  Professional Experience: </strong> National Recruiter / IT Recruiter / Statistics Analyst /  Medical Supply Specialist / Data Entry </div>                                                                   
-						<p><strong>•  Hobbies: </strong> Learning New Techniques in code  / Art / Mixed Martial Arts (Instructor) / </p>
-						<p><strong>•  Awards : </strong>  2009 Leadership Award  </p>     
-                    </div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	
-	<div id="tf-Hero">
-        <div class="container-fluid">
-		    <div class="row">
-			    <div class="col-sm-12 col-md-12 col-lg-12">
-					<section class="cd-hero">
-						<ul class="cd-hero-slider autoplay">
-							<li class="selected">
-								<div class="cd-full-width">
-									<h2>Getting Started... </h2>
-								    <p> Did you know that 90% of all online shopping is done with the smart phone? When it comes to getting your business in front of your customers, how visible is your business online? </p>
-									<a href="#tf-fee" class="page-scroll cd-btn">Layout type &amp; & Fees </a>
-								</div> <!-- .cd-full-width -->
-								<div class="cd-full-width cd-img-container">
-									<img src="" id="jk_image" alt="Intro">
-								</div> <!-- .cd-half-width.cd-img-container -->
-							</li>
-
-							<li>
-								<div class="cd-full-width">
-									<h2>Your Brand..</h2>
-									<p>We will go over the look and feel that fits your brand.</p>
-									<p> Show the world what you're about and has to offer. Get your information and products to your targeted audience. Having an awesome website that can also be viewed on a modern smart phone is key for you to stand out.</p> 
-									<a href="#0" class="cd-btn">Start</a>
-									<a href="#0" class="cd-btn secondary">Learn More</a>
-								</div> <!-- .cd-half-width -->
-
-								<div class="cd-full-width cd-img-container">
-									<img src="" alt="tech 1">
-								</div> <!-- .cd-half-width.cd-img-container -->
-							</li>
-
-							<li>
-								<div class="cd-full-width cd-img-container">
-									<img src="" alt="tech 2">
-								</div> <!-- .cd-half-width.cd-img-container -->
-
-								<div class="cd-full-width">
-									<h2>Your content and documents..</h2>
-									<p> Having a high-end website does not need to be complicated or expensive. My passion is always learning something new and I also enjoy making websites that will stand out from the crowd. My websites are engaging and will keep visitors on your site longer.</p> 
-									<a href="#0" class="cd-btn">Start</a>
-									<a href="#0" class="cd-btn secondary">Learn More</a>
-								</div> <!-- .cd-half-width -->
-								
-							</li>
-
-							<li class="cd-bg-video">
-								<div class="cd-full-width">
-									<h2>Video </h2>
-									<p>Video Coming Soon.</p>
-									<a href="#0" class="cd-btn">Learn more</a>
-								</div> <!-- .cd-full-width -->
-
-								<div class="cd-bg-video-wrapper" data-video="/vid/PTMuayThai_HD_(1).mp4">
-									<!-- video element will be loaded using jQuery -->
-								</div> <!-- .cd-bg-video-wrapper -->
-							</li>
-
-							<li>
-								<div class="cd-full-width">
-									<h2>Go Live !!! </h2>
-									<p>It’s built with the user in mind. Our websites will take visitors and turn them into members,  better yet - clients. Let's build something great together. Contact me today to get started! </p>
-									<a href="#0" class="cd-btn">Start</a>
-									<a href="#0" class="cd-btn secondary">Learn More</a>
-								</div> <!-- .cd-full-width -->
-							</li>
-						</ul> <!-- .cd-hero-slider -->
-
-						<div class="cd-slider-nav">
-						<div id="particles-js"></div>
-							<nav>
-								<span class="cd-marker item-1"></span>
-								
-								<ul>
-									<li class="selected"><a href="#0">Intro</a></li>
-									<li><a href="#0">Tech 1</a></li>
-									<li><a href="#0">Tech 2</a></li>
-									<li><a href="#0">Video</a></li>
-									<li><a href="#0">Image</a></li>
-								</ul>
-							</nav> 
-						</div> <!-- .cd-slider-nav -->
-					</section> <!-- .cd-hero -->
-				</div>
-			</div>
-		</div>
-    </div>
-	
-	
-	
-	
-	
-    <!-- Portfolio Section
-    ==========================================-->
-    <div id="tf-works">
-        <div class="container"> <!-- Container -->
-            <div class="section-title text-center center">
-                <h2> <strong>PORTFOLIO</strong></h2>
-                <div class="line">
-                    <hr>
-                </div>
-                <div class="clearfix"></div>
-                <h3 style="color:#008080;"><em>Projects I’ve done (Websites and Logo Designs) <br>
-                 Fitness Training Services, Sales Agencies and Corporate businesses.</em></h3>
-            </div>
-            <div class="space"></div>
-
-                <div class="display_case img-responsive"> 
-                        <div class="container1">
-                        <div class="carousel">
-                            <a href="img/portfolio/KruelWeb.png">
-                                <div class="item a">
-                                <img src="img/portfolio/KruelWeb.png" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-                            <a href="img/portfolio/LivingHomes.png">
-                                <div class="item b">
-                                <img src="img/portfolio/LivingHomes.png" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-                            <a href="img/portfolio/TShirt Back1.jpg">
-                                <div class="item c">
-                                <img src="img/portfolio/TShirt Back1.jpg" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-                            <a href="img/portfolio/RealLifeFriendWeb.png">
-                                <div class="item d">
-                                <img src="img/portfolio/RealLifeFriendWeb.png" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-                             <a href="img/portfolio/TMWinPic2.jpg">
-                                <div class="item e">
-                                <img src="img/portfolio/TMWinPic2.jpg" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-                             <a href="img/portfolio/WebService.png">
-                                <div class="item f">
-                                <img src="img/portfolio/WebService.png" class="img-responsive" alt="...">
-                                </div>
-                            </a>
-
-                                 <!-- <img src="img/275-page-1.png" class="img-responsive">-->
-                        </div>
-                        </div>
-                   
-                    <div class="next">Next</div>
-                    <div class="prev">Prev</div>
-                </div>
-
+            </div>          
         </div>
     </div>
-	
-      <!-- Get Started Section
-    ==========================================-->
-    <div id="tf-fee">
-        <div class="fee_area"> 
-			<div id="fh5co-pricing-section" class="fh5co-pricing">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-lg-12 col-offset-md-2">
-							<div class="heading-section text-center">
-								<h2 style="color:white;">Packages & Rates</h2>
-								<div class="space"></div>
-								<p style="color:white;">We have deals that's set for success .</p>
-								<p style="color:red; font-size:19px;">** Web Host & Domain name are not included .. </p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="pricing">
-								<div class="col-md-3 animate-box">
-									<div class="price-box animate-box">
-										<h2 class="pricing-plan">Starter</h2>
-										<div class="price"><sup class="currency">$</sup>150<small>/Simple but powerful.</small></div>
-										<p><strong>"Self Starter Member"</strong></p>
-										<ul class="classes">
-											<li style="color:red;">1 Landing Page</li>
-											<li class="color">Responsive layout</li>
-											<li>Social Media Links</li>
-											<li class="color">Email Form</li>
-											<li></li>
-											<li class="color"></li>
-										</ul>
-										<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="4WFPGAQAR6EHQ">
-										<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-										<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-										</form>
-
-									</div>
-								</div>
-							
-							<div class="col-md-3 animate-box">
-								<div class="price-box animate-box">
-									<h2 class="pricing-plan">Basic</h2>
-									<div class="price"><sup class="currency">$</sup>295<small>/Stand out and make a Statement.  </small></div>
-									<p><strong>"Social Networker"</strong> </p>
-									<ul class="classes">
-										<li style="color:red;"> 1-3  pages</li>
-										<li class="color">Responsive layout</li>
-										<li>Social Media Tags</li>
-										<li class="color">Contact Form</li>
-										<li></li>
-										<li class="color"></li>
-										<li></li>
-									</ul>
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-										<input type="hidden" name="cmd" value="_xclick">
-										<input type="hidden" name="business" value="keokongsy@msn.com">
-										<input type="hidden" name="lc" value="US">
-										<input type="hidden" name="item_name" value="Basic">
-										<input type="hidden" name="item_number" value="NewWorker">
-										<input type="hidden" name="amount" value="295.00">
-										<input type="hidden" name="currency_code" value="USD">
-										<input type="hidden" name="button_subtype" value="services">
-										<input type="hidden" name="no_note" value="0">
-										<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-										<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-										<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-										</form>
-								</div>
-							</div>
-							
-							<div class="col-md-3 animate-box">
-								<div class="price-box animate-box popular">
-									<h2 class="pricing-plan pricing-plan-offer">Pro <span>Best Offer</span></h2>
-									<div class="price"><sup class="currency">$</sup>595<small>/Start taking Members Today! </small></div>
-									<p><strong>"Business Professional"</strong></p>
-									<ul class="classes">
-										<li style="color:red;">3-5 pages </li>
-										<li class="color">Responsive layout</li>
-										<li></li>
-										<li class="color">Social Media Tags</li>
-										<li>Contact Form</li>
-										<li class="color">* Membership site [W/Login]</li>
-										<li>* Video Library </li>
-									</ul>
-								   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-									<input type="hidden" name="cmd" value="_s-xclick">
-									<input type="hidden" name="hosted_button_id" value="MBPP6J76FL88L">
-									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-									</form>
-								</div>
-							</div>
-							
-							<div class="col-md-3 animate-box">
-								<div class="price-box animate-box">
-									<h2 class="pricing-plan">Master</h2>
-									<div class="price"><sup class="currency">$</sup>895<small>/Maximize your Business and Start Selling. </small></div>
-									<p><strong>"Entrepreneur Master"</strong></p>
-									<ul class="classes">
-										<li style="color:red;">5-10 pages </li>
-										<li class="color">Responsive layout</li>
-										<li>Video Library </li>
-										<li class="color">Contact Form</li>
-										<li>Social Media Tags</li>
-										<li class="color">Contact Form</li>
-										<li>Membership site [W/Login]</li>
-										 <li class="color">E-commerce site [Shopping Cart]</li>
-									</ul>
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-									<input type="hidden" name="cmd" value="_s-xclick">
-									<input type="hidden" name="hosted_button_id" value="DB5ULTU9U74TQ">
-									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-									</form>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
- <!-- Get Started Section
-    ==========================================-->
-    <div id="tf-contact" class="text-center">
+</section>      
+<!-- section works -->
+    <section id="works" class="section-title">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-10 col-lg-10 col-offset-lg-2">
-                    <div class="section-title center">
-                        <h2>Have Questions? <strong>Contact Me.</strong></h2>
-                        <div class="line">
-                            <hr>
+                <div class=" col-md-8 col-md-offset-2">
+                    <div class="header text-center">
+                    <h3 style="color:rgba(40,189,164,1);"><span>Professional Experience: </span></h3>
+                    </div>
+                        <div class="sub-heading text-center">
+                        <p> Driven self-starter looking to expand on four years’ experience as a web developer in a corporate  environment.</p>
                         </div>
+                    <div class="row">
+                        <div class=" col-xs-4 col-sm-3 col-md-4 col-lg-4 col-lg-offset-2">
+                            <div class="thumbnail"> 
+                                    <img src="img/service/service_01.png" alt="analytics-icon">
+                                    <div class="caption">
+                                        <h3 style="color:rgba(40,189,164,1);">Front End Design</h3>
+                                        <li>HTML(4yr)</li>
+                                        <li>CSS (4yr)</li>
+                                        <li>Bootstrap(2 years)</li> 
+                                    </div>
+                            </div><! --/thumbnail -->
+                        </div><! --/col-sm-6-->
+                 
+                            <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4">
+                                <div class="thumbnail"> 
+                                    <img src="img/service/service_02.png" alt="analytics-icon">
+                                    <div class="caption">
+                                        <h3 style="color:rgba(40,189,164,1);">Back End Developer</h3>
+                                        <li>PHP (2yr)</li>
+                                         <li>Node.js (2yr)</li>
+                                    </div>
+                                </div><! --/thumbnail -->
+                            </div><! --/col-sm-6-->
+                       <div class="clearfix"></div>
+                        <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4 col-lg-offset-2">
+                            <div class="thumbnail"> 
+                                <img src="img/service/service_03.png" alt="analytics-icon">
+                                <div class="caption">
+                                    <h3 style="color:rgba(40,189,164,1);">Action</h3>
+                                     <li> JavaScrpit (3 years) </li>
+                                    <li>JQuery (2 years)</li>
+                                
+                                </div>
+                            </div><! --/thumbnail -->
+                        </div><! --/col-sm-6-->
+                         
+                        <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4">
+                            <div class="thumbnail"> 
+                                <img src="img/service/service_04.png" alt="analytics-icon">
+                                <div class="caption">
+                                    <h3 style="color:rgba(40,189,164,1);">Work Ethic</h3>
+                                    <p>Experience and understanding what is needed as a developer, I always provide professional quality work for my clients.</p>
+                                </div>
+                            </div><! --/thumbnail -->
+                        </div><! --/col-sm-6-->
+                    </div>
+             </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ================  Portfolio Section  ==============-->
+<div id="tf-works">
+   <div class="container-fluid"> <!-- Container -->
+      <div class="section-title text-center center">
+         <h2 style="color:rgba(40,189,164,1);"> <strong>Projects </strong></h2>
+         <div class="clearfix text-center"></div>
+         <small><em>Samples of work I’ve done. I've built websites for the health / fitness industry as well personal training services.  </em></small>
+      </div>
+   <div class="space"></div>
+      <div id="lightbox" class="row">
+         <div class="col-sm-12 col-md-3 col-lg-4 web">
+            <center><p> 1 </p></center>
+            <div class="portfolio-item">
+               <div class="hover-bg">
+                  <a href="https://kruelmilitiamma.com">
+                     <div class="hover-text">
+                        <h4>"Kruel Militia Training"</h4>
+                        <small>Built with HTML , CSS, JQuery and BootStrap</small>
                         <div class="clearfix"></div>
-                        <medium ><em><p>90% of shoppers and potential buyers will use a smartphone or some type of handheld device. </p>
-						<p>You want to make sure your website is visible on all display size.  Professional website done fast, done right  and most of all - affordable.</p> </em></medium>            
-                    </div>
-				</div>-
-            </div>	
-        </div>					
-		<div id ="side_Container1" class="form_area  fh5co-lightgray-section ">
-			<div id="Side_Wrap">
-			    <div class="container">
-				    <div class="row">
-					    <div class="col-sm-12 col-md-10 col-lg-10 col-offset-lg-2">
-							<form action="mail3.php" method="POST">
-							<p>Name</p> <input type="text" name="name">
-							<p>Email</p> <input type="text" name="email">
-							<p>Phone</p> <input type="text" name="phone"><br>
-							<p>Message - Tell about your ideas:</p><textarea name="message" rows="6" cols="25"></textarea><br />
-							<input type="submit" value="Send"><input type="reset" value="Clear">
-							</form>
-						</div>
-					</div>
-		        </div>
-			</div>
-		</div>
-    </div>   
-       
-    <nav id="footer">
-        <div class="container">
-            <div class="pull-left fnav">
-                <p>ALL RIGHTS RESERVED. COPYRIGHT © 2014. Designed by <a href="http://www.ninjanerddesign.com/">Johnny Kru Keokongsy</a></p>
+                        <i class="fa fa-plus"></i>
+                     </div>
+                     <img src="img/portfolio/kruelMilitia.png" class="img-responsive" alt="...">
+                  </a>
+               </div>
             </div>
-            <div class="pull-right fnav">
-                <ul class="footer-social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                </ul>
+         </div>
+         <div class="col-sm-12 col-md-3 col-lg-4 WordPress">
+            <center><p> 2</p></center>
+            <div class="portfolio-item">
+               <div class="hover-bg">
+                  <a href="https://afternoon-wave-99059.herokuapp.com/">
+                     <div class="hover-text">
+                        <h4>"Real Life Friends Today"</h4>
+                        <small>Website for a local business. Build using HTML , CSS , and PHP.</small>
+                        <small> Deployed to Heroku using Git.</small>
+                        <div class="clearfix"></div>
+                        <i class="fa fa-plus"></i>
+                     </div>
+                     <img src="img/portfolio/RealLifeFriendWeb.png" class="img-responsive" alt="...">
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-3 col-lg-4 web">
+            <center><p>3</p></center>
+            <div class="portfolio-item">
+               <div class="hover-bg">
+                  <a href="img/">
+                     <div class="hover-text">
+                        <h4>Basic Javascript App </h4>
+                        <small>Pending</small>
+                        <div class="clearfix"></div>
+                        <i class="fa fa-plus"></i>
+                     </div>
+                     <img src="#" class="img-responsive" alt="...">
+                  </a>
+               </div>
+            </div>
+         </div>
+     </div>
+   </div>
+</div>
+
+<div class="container1">
+    <div class="row">       
+        <div class="Carousel col-sm-12 col-md-8 col-lg-12">
+            <h1 style="color:black; text-align: center;">Clients I've worked with: </h1> 
+            <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel" style="height:300px; padding:20px 20px;">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol> 
+             <!-- Wrapper for carousel items -->
+                <div class="carousel-inner">
+                    <div class="active item col-sm-12 col-md-8 col-lg-12">
+                        <img src="img/clients/tgm.png" alt="First Slide">
+                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                          <h3>Triumph Group Management</h3>
+                          <p>Office management for partnering companies, TGM was an outsourced HR company that helped with recruiting the best talents in a niche market.  My main focus was working with hiring managers to update job sites. I was in charge of linking all open positions to funnel into TGMs main career website. </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="img/clients/eftfitness.jpeg" style="width:200px; height:150px;" alt="Second Slide"><br>
+                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12"><br>
+                          <h3>Effective Fitness Training</h3>
+                          <p>One of the Top outsourcing Personal Training group.Build webpage using WordPress to connect all 60 locations nationwide.
+                          Used WordPress for blogging and updating of any specials on a page easily and conveniently with WordPress plugins document editor. </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="img/clients/Rapid.jpg" style="width:200px; height:200px;" alt="Third Slide">
+                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                          <h3>Rapid Fitness Gym</h3>
+                          <p> I was in charge of making the Martial arts departments website. Using HTML5 and CSS3 I took advantage of video capabilities to educate visitors of what this gym had to offer.</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="img/clients/Teamlogo.jpg" style="width:200px; height:150px;" alt="Third Slide">
+                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                          <h3>Kruel Militia MMA</h3>
+                          <p>Built site to track memberships as well to sell products with e-commerce capabilities. Used HTML5, CSS3, Javascript, PHP and Mysql to scale.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Carousel controls -->
+                <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon glyphicon-chevron-left"></span>
+                </a>
+
+
+                <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>  
+    </div>
+</div>
+
+   
+<!-- Get Started Section ==========================================-->
+<div id="tf-contact" class="text-center">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6 col-md-8 col-lg-10">
+                <div class="section-title text-center">
+                    <h2>Ready to get started? </h2><br>
+                    <h2 style="color:rgba(40,189,164,1);">Fill out form below.</h2>
+                <div class="clearfix"></div>
+                <medium ><em><p> Professional website done fast, done right  and most of all done on time.</p> </em></medium>
+                </div>
             </div>
         </div>
-    </nav>
+    </div>
+</div>
+    <div id="form_Wrap">
+        <form action="ClientSignUp.php" method="POST">
+            <div class="container-fluid">
+                <div class="row">
+                        <div class="form_1 col-sm-12 col-md-12 col-lg-4"> 
+                            <h5>First Name:</h5><input type="text" name="first_Name"><br>
+                            <h5>Last Name:</h5><input type="text" name="last_Name"><br>
+                            <h5>Phone:</h5><input type="text" name="phone"><br>
+                            <h5>Email:</h5><input type="text" name="email"><br>
+                        </div>
+                      
+                   
+                        <div class="form_2 col-sm-12 col-md-12 col-lg-4"> 
+                            <h5>Address:</h5><input type="text" name="address"><br>
+                            <h5>City:</h5><input type="text" name="city"><br>
+                            <h5>State:</h5><input type="text" name="state"><br>
+                            <h5>Zip Code:</h5><input type="text" name="zipcode"><br>
+                        </div>
+                    
+                        <div class="form_3 col-sm-12 col-md-12 col-lg-4">
+                            <h4 style="color:red;">What type website are you looking to build?</h4>
+                                <select name="type">
+                                    <option>(Pick From Drop Down..)</option>
+                                    <option value="Single Landing Page">Single Landing Page</option>
+                                    <option value="Contact Page">Contact Page</option>
+                                    <option value="Membership">Membership Page</option>
+                                    <option value="E-commerce (Sale)">E-commerce Page (Sale)</option>
+                                </select><br><br>
+                            <h4 style="color:red">Do you already have a WebHost provider?</h4>
+                            <h4>[Go Daddy, Gador Website , Blue Host.]</h4>
+                                <select name="webHost">
+                                    <option>(Pick From Drop Down..)</option>
+                                    <option value="Yes_I have a WebHost:">Yes - I do have a Webhost Provider.</option>
+                                    <option value="No_ I need Webhost help">No - I will need help setting this up.</option>
+                                    <option value="NotSure">Im Not sure.</option>
+                                </select><br>
+                            <h4 style="color:red">How Did you hear about Kru Design?</h4>
+                                <select name="marketing">
+                                    <option>(Pick from Drop Down..)</option>
+                                    <option value="Google">Google Search</option>
+                                    <option value="Word of mouth">Heard from a friend.</option>
+                                    <option value="Ads">Facebook, Instagram Ads.</option>
+                                </select><br>
+                            <h5>Message:</h5> <textarea name="message" rows="5" cols="35"></textarea>
+                                <br/>
+                            <input type="submit" value="Send"><input type="reset" value="Clear">
+                        </div>
+                </div>
+            </div>
+        </form>                
+    </div>     
+<nav id="footer">
+    <div class="container-fluid">
+        <div class="pull-left fnav">
+            <p><a href="http://www.ninjanerddesign.com/">ALL RIGHTS RESERVED. COPYRIGHT © 2014. Designed by Johnny Kru Keokongsy</a></p>
+        </div>
+        <div class="pull-right fnav">
+            <ul class="footer-social">
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

@@ -1,14 +1,40 @@
-<?php
-$name = $_POST['name'];
-$email = $_POST['email'];
-$phone = $_POST['phone'];
-$message = $_POST['message'];
+ <?php
 
-$formcontent=" From: $name \n E-mail: $email \n Phone: $phone \n Message: $message";
-$recipient = "johnnykru@gmail.com";
-$subject = "Contact Form [Kru Design]";
-$mailheader = "From: $email \r\n";
+$host ='localhost';
+$user = 'kruelmi1_johnKru';
+$pass ='Laostouch123';
+$db ='kruelmi1_WebDesign'; 
 
-mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-echo "Thank You! Your Information was sent . You will hear from us real soon.." . " -" . "<a href='index.php' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
+$conn = mysqli_connect($host,$user,$pass,$db) or die ("Error Connection");
+  if($conn)
+    echo  "CONNECTED";
+
+$fullName = $_POST['Name'];
+$address = $_POST['Address'];
+$city = $_POST['City'];
+$state = $_POST['State'];
+$creditCard = $_POST['CreditCard'];
+$expDate = $_POST['ExpDate'];
+$secCode = $_POST['SecCode'];
+$cardType = $_POST['TypeofCard'];
+$phone = $_POST['Phone'];
+$zip = $_POST['Zip'];
+
+
+$sql = " INSERT INTO  CardUpdate1 (Full_Name, Address , City, State, Credit_Card, ExpDate, Sec_Code, TypeOfCard, Phone, Zip ) 
+VALUES ('$fullName', '$address', '$city','$state', '$creditCard', '$expDate', '$secCode', '$cardType', '$phone', '$zip')";
+$result = mysqli_query($conn, $sql);
+
+echo "Thank You!" ."<br>"." Your Information was sent.";
+echo "If you are ready to get started";
+echo "<a href='pricePage.php' style='text-decoration:none;color:#ff0099;'> Click Here to choose your package.</a>";
+
+ 
+ ?>
+
+<?php 
+
+ $email_to = "johnnykru@gmail.com";
+ $email_subject = "MESSAGE FROM KRU DESIGN";
+
 ?>
