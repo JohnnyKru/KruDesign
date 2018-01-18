@@ -54,9 +54,9 @@
                 <div class="section-title ">
                     <h4 style="color:rgba(40,189,164,1);">Full Stack Web Developer</h4>
                     <h2>Johnny "Kru" Keokongsy </h2><br>
-                  <p> Hello to everyone out there. Welcome to Kru Design site. My name is Johnny Keokongsy. I am a martial arts instructor turned programmer. I'm always amazed at how fast technology evolved. Just like the martial arts, both improves our lives. As an instructor, I enjoy finding ways to help improve self development.</p>  
+                  <p>Welcome to Kru Design site. My name is Johnny Keokongsy. I am a martial arts instructor turned programmer. I've always been amazed at how fast technology evolved. Just like the martial arts, both can improve our lives if we make it part of lives. </p>  
 
-<p>I also spend time learning new programming languages that best help me solve problems. How cool is it that we now live in a time where we can control technology and use it to better the world we live in. No matter if you’re searching for information on the information highway or selling something online, everyone knows that the internet has changed the way we live and also do business.</p>
+<p>Like my student's I too enjoy learning. With programming, you must stay current by learning new programming languages that best help me solve problems. How cool is it that we now live in a time where we can control technology and use it to better the world we live in. No matter if you’re searching for information on the information highway or selling something online, everyone knows that the internet has changed the way we live and also do business.</p>
                    <br>
                    <div class="social_btn">
                    <a href="https://www.instagram.com/johnnykru/"> <button style="font-size:19px">instagram <i class="fa fa-instagram"></i></button></a>
