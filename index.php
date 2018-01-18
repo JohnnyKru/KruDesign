@@ -36,7 +36,7 @@
         <div class="overlay">
             <div class="content">
                 <h1>Kru Design <strong><span class="color"> Portfolio Page.</span></strong>. </h1>
-                <p class="lead"> Web Developer and Marketing.</p>
+                <p class="lead"> Web Development and Marketing.</p>
                  <p class="lead2"> Clean, dynamic, responsive layouts for <strong>big</strong> or small projects.</p>
                 <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
             </div>
@@ -54,7 +54,7 @@
                 <div class="section-title ">
                     <h4 style="color:rgba(40,189,164,1);">Full Stack Web Developer</h4>
                     <h2>Johnny "Kru" Keokongsy </h2><br>
-                   <p>Hello to everyone! Welcome to Kru Design site. My name is Johnny Keokongsy. I spend my free time learning new programming languages as well as solving problems. I love technology as well connecting with like minded people with the same passions.</p>
+                   <p>Hello to everyone out there. Welcome to Kru Design site. My name is Johnny Keokongsy. I spend my free time learning new programming languages as well as solving problems. I love technology as well connecting with like minded people with the same passions.</p>
                    <p> How cool is it that we now live in a time where we can control technology and use it to better the world we live in. No matter if you’re searching for information on the information highway or selling something online, everyone knows that the internet has changed the way we live and also do business.</p>
                    <br>
                    <div class="social_btn">
