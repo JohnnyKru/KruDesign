@@ -80,7 +80,7 @@
                         <p> Driven self-starter looking to expand on four years’ experience as a web developer in a corporate  environment.</p>
                         </div>
                     <div class="row">
-                        <div class=" col-xs-4 col-sm-3 col-md-4 col-lg-4 col-lg-offset-2">
+                        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-2">
                             <div class="thumbnail"> 
                                     <img src="img/service/service_01.png" alt="analytics-icon">
                                     <div class="caption">
@@ -92,7 +92,7 @@
                             </div><! --/thumbnail -->
                         </div><! --/col-sm-6-->
                  
-                            <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4">
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="thumbnail"> 
                                     <img src="img/service/service_02.png" alt="analytics-icon">
                                     <div class="caption">
@@ -103,7 +103,7 @@
                                 </div><! --/thumbnail -->
                             </div><! --/col-sm-6-->
                        <div class="clearfix"></div>
-                        <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4 col-lg-offset-2">
+                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-2">
                             <div class="thumbnail"> 
                                 <img src="img/service/service_03.png" alt="analytics-icon">
                                 <div class="caption">
@@ -115,7 +115,7 @@
                             </div><! --/thumbnail -->
                         </div><! --/col-sm-6-->
                          
-                        <div class="col-xs-4 col-sm-3 col-md-4 col-lg-4">
+                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <div class="thumbnail"> 
                                 <img src="img/service/service_04.png" alt="analytics-icon">
                                 <div class="caption">
@@ -193,145 +193,100 @@
    </div>
 </div>
 
-<div class="container1">
-    <div class="row">       
-        <div class="Carousel col-sm-12 col-md-8 col-lg-12">
-            <h1 style="color:black; text-align: center;">Clients I've worked with: </h1> 
-            <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel" style="height:300px; padding:20px 20px;">
-                <!-- Carousel indicators -->
-                <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                    <li data-target="#myCarousel" data-slide-to="3"></li>
-                </ol> 
-             <!-- Wrapper for carousel items -->
-                <div class="carousel-inner">
-                    <div class="active item col-sm-12 col-md-8 col-lg-12">
-                        <img src="img/clients/tgm.png" alt="First Slide">
-                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
-                          <h3>Triumph Group Management</h3>
-                          <p>Office management for partnering companies, TGM was an outsourced HR company that helped with recruiting the best talents in a niche market.  My main focus was working with hiring managers to update job sites. I was in charge of linking all open positions to funnel into TGMs main career website. </p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="img/clients/eftfitness.jpeg" style="width:200px; height:150px;" alt="Second Slide"><br>
-                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12"><br>
-                          <h3>Effective Fitness Training</h3>
-                          <p>One of the Top outsourcing Personal Training group.Build webpage using WordPress to connect all 60 locations nationwide.
-                          Used WordPress for blogging and updating of any specials on a page easily and conveniently with WordPress plugins document editor. </p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="img/clients/Rapid.jpg" style="width:200px; height:200px;" alt="Third Slide">
-                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
-                          <h3>Rapid Fitness Gym</h3>
-                          <p> I was in charge of making the Martial arts departments website. Using HTML5 and CSS3 I took advantage of video capabilities to educate visitors of what this gym had to offer.</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="img/clients/Teamlogo.jpg" style="width:200px; height:150px;" alt="Third Slide">
-                        <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
-                          <h3>Kruel Militia MMA</h3>
-                          <p>Built site to track memberships as well to sell products with e-commerce capabilities. Used HTML5, CSS3, Javascript, PHP and Mysql to scale.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Carousel controls -->
-                <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon glyphicon-chevron-left"></span>
-                </a>
-
-
-                <a class="carousel-control right" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
-            </div>
-        </div>  
-    </div>
-</div>
-
+  <div class="container">
+      <div class="row">       
+          <div class="Carousel col-sm-12 col-md-8 col-lg-12">
+              <h1 style="color:black; text-align: center;">Clients I've worked with: </h1> 
+              <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel" style="height:300px; padding:20px 20px;">
+                  <!-- Carousel indicators -->
+                  <ol class="carousel-indicators">
+                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                      <li data-target="#myCarousel" data-slide-to="1"></li>
+                      <li data-target="#myCarousel" data-slide-to="2"></li>
+                      <li data-target="#myCarousel" data-slide-to="3"></li>
+                  </ol> 
+               <!-- Wrapper for carousel items -->
+                  <div class="carousel-inner">
+                      <div class="active item col-sm-12 col-md-8 col-lg-12">
+                          <img src="img/clients/tgm.png" alt="First Slide">
+                          <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                            <h3>Triumph Group Management</h3>
+                            <p>Office management for partnering companies, TGM was an outsourced HR company that helped with recruiting the best talents in a niche market.  My main focus was working with hiring managers to update job sites. I was in charge of linking all open positions to funnel into TGMs main career website. </p>
+                          </div>
+                      </div>
+                      <div class="item">
+                          <img src="img/clients/eftfitness.jpeg" style="width:200px; height:150px;" alt="Second Slide"><br>
+                          <div class="carousel-caption col-sm-12 col-md-8 col-lg-12"><br>
+                            <h3>Effective Fitness Training</h3>
+                            <p>One of the Top outsourcing Personal Training group.Build webpage using WordPress to connect all 60 locations nationwide.
+                            Used WordPress for blogging and updating of any specials on a page easily and conveniently with WordPress plugins document editor. </p>
+                          </div>
+                      </div>
+                      <div class="item">
+                          <img src="img/clients/Rapid.jpg" style="width:200px; height:200px;" alt="Third Slide">
+                          <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                            <h3>Rapid Fitness Gym</h3>
+                            <p> I was in charge of making the Martial arts departments website. Using HTML5 and CSS3 I took advantage of video capabilities to educate visitors of what this gym had to offer.</p>
+                          </div>
+                      </div>
+                      <div class="item">
+                          <img src="img/clients/Teamlogo.jpg" style="width:200px; height:150px;" alt="Third Slide">
+                          <div class="carousel-caption col-sm-12 col-md-8 col-lg-12">
+                            <h3>Kruel Militia MMA</h3>
+                            <p>Built site to track memberships as well to sell products with e-commerce capabilities. Used HTML5, CSS3, Javascript, PHP and Mysql to scale.</p>
+                          </div>
+                      </div>
+                  </div>
+                  <!-- Carousel controls -->
+                  <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                      <span class="glyphicon glyphicon glyphicon-chevron-left"></span>
+                  </a>
+                  <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                      <span class="glyphicon glyphicon-chevron-right"></span>
+                  </a>
+              </div>
+          </div>  
+      </div>
+  </div>
    
+
 <!-- Get Started Section ==========================================-->
 <div id="tf-contact" class="text-center">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-6 col-md-8 col-lg-10">
-                <div class="section-title text-center">
-                    <h2>Ready to get started? </h2><br>
-                    <h2 style="color:rgba(40,189,164,1);">Fill out form below.</h2>
-                <div class="clearfix"></div>
-                <medium ><em><p> Professional website done fast, done right  and most of all done on time.</p> </em></medium>
-                </div>
-            </div>
-        </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="section-title text-center col-lg-6  col-lg-offset-2">
+          <h2>Contact me.</h2><br>
+          <h2 style="color:rgba(40,189,164,1);">Fill out form below.</h2>
+        <div class="clearfix"></div>
+        <medium ><em><p> Professional website done fast, done right  and most of all done on time.</p> </em></medium>
+          <form action="ClientSignUp1.php" method="POST"> 
+            <h5>First Name:</h5><input type="text" name="first_Name"><br>
+            <h5>Last Name:</h5><input type="text" name="last_Name"><br>
+            <h5>Phone:</h5><input type="text" name="phone"><br>
+            <h5>Email:</h5><input type="text" name="email"><br>
+            <h5>Message:</h5> <textarea name="message" rows="6" cols="35"></textarea>
+            <br/>
+            <input type="submit" value="Send"><input type="reset" value="Clear">
+          </form>
+      </div>
     </div>
-</div>
-    <div id="form_Wrap">
-        <form action="ClientSignUp.php" method="POST">
-            <div class="container-fluid">
-                <div class="row">
-                        <div class="form_1 col-sm-12 col-md-12 col-lg-4"> 
-                            <h5>First Name:</h5><input type="text" name="first_Name"><br>
-                            <h5>Last Name:</h5><input type="text" name="last_Name"><br>
-                            <h5>Phone:</h5><input type="text" name="phone"><br>
-                            <h5>Email:</h5><input type="text" name="email"><br>
-                        </div>
-                      
-                   
-                        <div class="form_2 col-sm-12 col-md-12 col-lg-4"> 
-                            <h5>Address:</h5><input type="text" name="address"><br>
-                            <h5>City:</h5><input type="text" name="city"><br>
-                            <h5>State:</h5><input type="text" name="state"><br>
-                            <h5>Zip Code:</h5><input type="text" name="zipcode"><br>
-                        </div>
-                    
-                        <div class="form_3 col-sm-12 col-md-12 col-lg-4">
-                            <h4 style="color:red;">What type website are you looking to build?</h4>
-                                <select name="type">
-                                    <option>(Pick From Drop Down..)</option>
-                                    <option value="Single Landing Page">Single Landing Page</option>
-                                    <option value="Contact Page">Contact Page</option>
-                                    <option value="Membership">Membership Page</option>
-                                    <option value="E-commerce (Sale)">E-commerce Page (Sale)</option>
-                                </select><br><br>
-                            <h4 style="color:red">Do you already have a WebHost provider?</h4>
-                            <h4>[Go Daddy, Gador Website , Blue Host.]</h4>
-                                <select name="webHost">
-                                    <option>(Pick From Drop Down..)</option>
-                                    <option value="Yes_I have a WebHost:">Yes - I do have a Webhost Provider.</option>
-                                    <option value="No_ I need Webhost help">No - I will need help setting this up.</option>
-                                    <option value="NotSure">Im Not sure.</option>
-                                </select><br>
-                            <h4 style="color:red">How Did you hear about Kru Design?</h4>
-                                <select name="marketing">
-                                    <option>(Pick from Drop Down..)</option>
-                                    <option value="Google">Google Search</option>
-                                    <option value="Word of mouth">Heard from a friend.</option>
-                                    <option value="Ads">Facebook, Instagram Ads.</option>
-                                </select><br>
-                            <h5>Message:</h5> <textarea name="message" rows="5" cols="35"></textarea>
-                                <br/>
-                            <input type="submit" value="Send"><input type="reset" value="Clear">
-                        </div>
-                </div>
-            </div>
-        </form>                
-    </div>     
+  </div>            
+</div> 
+
 <nav id="footer">
-    <div class="container-fluid">
-        <div class="pull-left fnav">
-            <p><a href="http://www.ninjanerddesign.com/">ALL RIGHTS RESERVED. COPYRIGHT © 2014. Designed by Johnny Kru Keokongsy</a></p>
-        </div>
-        <div class="pull-right fnav">
-            <ul class="footer-social">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            </ul>
-        </div>
-    </div>
+  <div class="container-fluid">
+      <div class="pull-left fnav">
+          <p><a href="http://www.ninjanerddesign.com/">ALL RIGHTS RESERVED. COPYRIGHT © 2014. Designed by Johnny Kru Keokongsy</a></p>
+      </div>
+      <div class="pull-right fnav">
+          <ul class="footer-social">
+              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          </ul>
+      </div>
+  </div>
 </nav>
 
 
