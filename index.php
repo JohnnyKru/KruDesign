@@ -35,7 +35,7 @@
     <div id="tf-home" class="text-center"><div id="particles-js"></div>
         <div class="overlay">
             <div class="content">
-                <h1>Kru Design <strong><span class="color"> Portfolio Page.</span></strong>. </h1>
+                <h1>Kru Design <strong><span class="color"> Portfolio.</span></strong>. </h1>
                 <p class="lead"> Web Development and Marketing.</p>
                  <p class="lead2"> Clean, dynamic, responsive layouts for <strong>big</strong> or small projects.</p>
                 <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
