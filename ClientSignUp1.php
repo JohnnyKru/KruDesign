@@ -18,7 +18,7 @@
   //Email response
   echo "Thank you for contacting me!";
    echo "This is demo only. No info was sent.";
-    echo '<a href="https://floating-sierra-71696.herokuapp.com/">'Back Home '</a>';
+ 
   }
 
 ?>
