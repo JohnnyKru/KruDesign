@@ -54,10 +54,9 @@
                 <div class="section-title ">
                     <h4 style="color:rgba(40,189,164,1);">Full Stack Web Developer</h4>
                     <h2>Johnny "Kru" Keokongsy </h2><br>
-                  <p>Welcome to Kru Design site. My name is Johnny Keokongsy. I am a martial arts instructor turned programmer. I've always been amazed at how fast technology evolved. Just like the martial arts, both can improve our lives if we make it part of lives. </p>  
-
-<p>Like my student's I too enjoy learning. With programming, you must stay current by learning new programming languages that best help me solve problems. How cool is it that we now live in a time where we can control technology and use it to better the world we live in. No matter if you’re searching for information on the information highway or selling something online, everyone knows that the internet has changed the way we live and also do business.</p>
-                   <br>
+                  <p>Welcome to Kru Design site. My name is Johnny Keokongsy. I am a full stack web developer looking to improve my skills, at the same time, play an important part in customer’s needs. The best part about writing and reading code is understanding what each part is doing. Using what you learned and applying it to fix “bugs” within the code is something I really enjoy! </p><br>
+                  <p>For me, being a full stack web developer is exciting because you get to see the whole picture.  From the user’s side to the server side, you’re always learning something new. How cool is it that we now live in a time where we can control technology and use it to better the world we live in.</p>
+                                     <br>
                    <div class="social_btn">
                    <a href="https://www.instagram.com/johnnykru/"> <button style="font-size:19px">instagram <i class="fa fa-instagram"></i></button></a>
                     <a href="https://www.youtube.com/channel/UCAxqMzqfdAeDAng0S6Kl_lA/featured?view_as=public"><button style="font-size:19px">youtube <i class="fa fa-youtube"></i></button></a>
@@ -77,50 +76,53 @@
                     <h3 style="color:rgba(40,189,164,1);"><span>Professional Experience: </span></h3>
                     </div>
                         <div class="sub-heading text-center">
-                        <p> Driven self-starter looking to expand on four years’ experience as a web developer in a corporate  environment.</p>
+                        <p> </p>
                         </div>
                     <div class="row">
                         <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-2">
                             <div class="thumbnail"> 
                                     <img src="img/service/service_01.png" alt="analytics-icon">
                                     <div class="caption">
-                                        <h3 style="color:rgba(40,189,164,1);">Front End Design</h3>
+                                        <h3 style="color:rgba(40,189,164,1);">Front End</h3>
                                         <li>HTML(4yr)</li>
                                         <li>CSS (4yr)</li>
                                         <li>Bootstrap(2 years)</li> 
                                     </div>
                             </div><! --/thumbnail -->
                         </div><! --/col-sm-6-->
-                 
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+
+                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                            <div class="thumbnail"> 
+                                <img src="img/service/service_03.png" alt="analytics-icon">
+                                <div class="caption">
+                                    <h3 style="color:rgba(40,189,164,1);">Front End</h3>
+                                     <li> JavaScrpit (3 years) </li>
+                                    <li>JQuery (2 years)</li>
+                                </div>
+                            </div><! --/thumbnail -->
+                        </div><! --/col-sm-6-->
+
+                        <div class="clearfix"></div>
+
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-2">
                                 <div class="thumbnail"> 
                                     <img src="img/service/service_02.png" alt="analytics-icon">
                                     <div class="caption">
-                                        <h3 style="color:rgba(40,189,164,1);">Back End Developer</h3>
+                                        <h3 style="color:rgba(40,189,164,1);">Back End </h3>
                                         <li>PHP (2yr)</li>
                                          <li>Node.js (2yr)</li>
                                     </div>
                                 </div><! --/thumbnail -->
-                            </div><! --/col-sm-6-->
-                       <div class="clearfix"></div>
-                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-2">
-                            <div class="thumbnail"> 
-                                <img src="img/service/service_03.png" alt="analytics-icon">
-                                <div class="caption">
-                                    <h3 style="color:rgba(40,189,164,1);">Action</h3>
-                                     <li> JavaScrpit (3 years) </li>
-                                    <li>JQuery (2 years)</li>
-                                
-                                </div>
-                            </div><! --/thumbnail -->
-                        </div><! --/col-sm-6-->
-                         
+                            </div><! --/col-sm-6-->  
+
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <div class="thumbnail"> 
                                 <img src="img/service/service_04.png" alt="analytics-icon">
                                 <div class="caption">
-                                    <h3 style="color:rgba(40,189,164,1);">Work Ethic</h3>
-                                    <p>Experience and understanding what is needed as a developer, I always provide professional quality work for my clients.</p>
+                                    <h3 style="color:rgba(40,189,164,1);">Corporate Skills:</h3>
+                                    <li> Advanced knowledge of Microsoft Excel.</li>
+                                    <li> Proficiency in Microsoft Word</li>
+                                    <li> Operating System: Linux, Macintosh and Windows.</li>
                                 </div>
                             </div><! --/thumbnail -->
                         </div><! --/col-sm-6-->
@@ -173,7 +175,7 @@
                </div>
             </div>
          </div>
-         <div class="col-sm-6 col-md-3 col-lg-4 web">
+         <div class="col-sm-12 col-md-3 col-lg-4 web">
             <center><p>3</p></center>
             <div class="portfolio-item">
                <div class="hover-bg">
@@ -254,7 +256,7 @@
 <div id="tf-contact" class="text-center">
   <div class="container-fluid">
     <div class="row">
-      <div class="section-title text-center col-lg-6  col-lg-offset-2">
+      <div class="section-title text-center col-lg-6  col-lg-offset-3">
           <h2>Contact me.</h2><br>
           <h2 style="color:rgba(40,189,164,1);">Fill out form below.</h2>
         <div class="clearfix"></div>
